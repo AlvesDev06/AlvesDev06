@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=00E6E6&center=true&vCenter=true&width=550&lines=Estudante+de+Ciência+da+Computação;Busca+por+Estágio!+;Sempre+em+busca+de+aprendizado!+;Construindo+meu+futuro+na+programação!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=00E6E6&center=true&vCenter=true&width=550&lines=Estudante+de+Ciência+da+Computação;Busca+por+um+Estágio!+;Sempre+em+busca+de+aprendizado!+;Construindo+meu+futuro+na+programação!">
   </a>
 </p>
 
